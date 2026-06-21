@@ -4,7 +4,7 @@ CrazyRun
 Overview
 --------
 
-CrazyRun is a small Python game inspired by Cray Cars. It borrows the fast-paced arcade feel and vehicle-based action of Cray Cars while using original assets and gameplay mechanics.
+CrazyRun is a small Python game inspired by Crazy Cars. It borrows the fast-paced arcade feel and vehicle-based action of Cray Cars while using original assets and gameplay mechanics.
 
 <img src="assets/screenshot1.png">
 <img src="assets/screenshot2.png">
